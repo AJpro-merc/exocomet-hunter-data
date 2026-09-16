@@ -26,7 +26,3 @@ derived measurements (feature rows, model files) -- never raw light curves.
 Append-only by convention: manifests never get rewritten, only appended to. Nothing here is force-pushed.
 
 Generated automatically by `.github/workflows/train.yml` in the main repo, on a schedule, unattended.
-
----
-
-
